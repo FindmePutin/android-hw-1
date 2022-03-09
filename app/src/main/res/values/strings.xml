@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">project 1</string>
+    <string name="total">Total</string>
+    <string name="calculate">calculate</string>
+    <string name="second_number">Second number</string>
+    <string name="calculator">calculator</string>
+    <string name="second_numberr">Second Number</string>
+    <string name="button">Button</string>
+    <string name="first_number">First Number</string>
+    <string name="homework_grades_20">homework grades 20%</string>
+    <string name="classwork_grades_40">classwork grades 40%</string>
+    <string name="Total">Total</string>
+    <string name="research_grades_25">research grades 25%</string>
+    <string name="test_grades_15">test grades 15%</string>
+</resources>
